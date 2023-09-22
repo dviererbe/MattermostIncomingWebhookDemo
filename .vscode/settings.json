@@ -1,0 +1,12 @@
+{
+    "mattermost": 
+    {
+        "channels":
+        [
+            {
+                "name": "Canonical",
+                "url": "https://chat.canonical.com/hooks/pi916b1de7f5xxdrfyomergace"
+            }
+        ]
+    }
+}
